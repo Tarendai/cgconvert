@@ -1,0 +1,20 @@
+{
+	"name": "tomjn/cgconvert",
+	"description": "converts between xml, json, and csv",
+	"homepage": "http://tomjn.com",
+	"license": "GPL-2.0+",
+	"version": "2.0",
+	"authors"     : [
+		{
+			"name"    : "Tom J Nowell",
+			"email"   : "contact@tomjn.com"
+		}
+	],
+	"require": {
+		"php": ">=5.3",
+		"symfony/console": "@stable"
+	},
+	"autoload": {
+        "classmap": [ "" ]
+    }
+}
