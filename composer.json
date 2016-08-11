@@ -1,7 +1,7 @@
 {
 	"name": "tomjn/cgconvert",
 	"description": "converts between xml, json, and csv",
-	"homepage": "http://tomjn.com",
+	"homepage": "https://tomjn.com",
 	"license": "GPL-2.0+",
 	"version": "2.0",
 	"authors"     : [
